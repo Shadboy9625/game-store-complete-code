@@ -1,8 +1,4 @@
-# Next.js Online Store
-
-[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-green.svg)](https://github.com/laribright/nextjs-sanity-shop)
-
-🛍️ Welcome to the Next.js Online Store repository! 🚀
+🛍️ Welcome to the Next.js Online Game Store repository! 🚀
 
 This repository contains the code for a fully functional online store built with Next.js, Redux, Sanity.io, Auth.js, TypeScript, MongoDB, and Stripe. 
 
@@ -38,6 +34,4 @@ CMS <br>
 
 ## Contact
 
-For any inquiries or questions, feel free to reach out to me via email at itslaribright@gmail.com
-
-Let's build something amazing together! 🌟
+For any inquiries or questions, feel free to reach out to me via email at shadabkalim375@gmail.com
